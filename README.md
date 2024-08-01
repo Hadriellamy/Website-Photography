@@ -15,7 +15,7 @@ Welcome to the Photography Website project! This project is a personal portfolio
 
 ## Visit the site
 
-- You can visit the site with URL : https://hadriellamy.github.io/Website-Photography-/
+- You can visit the site with URL :  https://hadriellamy.github.io/Website-Photography/
 
 
 
